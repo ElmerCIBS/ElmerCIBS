@@ -73,7 +73,6 @@ My goal is to bridge the gap between effective IT user support and robust system
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ElmerCIBS&show_icons=true&theme=tokyonight" alt="Elmer's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight" alt="Elmer's Streak" />
+  <img src="https://metrics.lecoq.io/ElmerCIBS?template=classic&config.timezone=America%2FCosta_Rica&base.colors=white&theme=tokyonight" alt="Elmer's GitHub Metrics" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight" alt="Elmer's Streak" width="48%" />
 </p>
