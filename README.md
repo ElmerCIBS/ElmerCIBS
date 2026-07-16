@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElmerCIBS/ElmerCIBS/main/banner.png" alt="Elmer Chavarria - IT Support & SOC Analyst Banner" width="100%">
+  <img src="https://github.com/ElmerCIBS/ElmerCIBS/blob/main/Elmer%20Chavarria%20-%20IT%20Support%20%26%20SOC%20Analyst%20Banner.png" alt="Elmer Chavarria - IT Support & SOC Analyst Banner" width="100%">
 </p>
 
 # Hi there, I'm Elmer! 👋🛡️
