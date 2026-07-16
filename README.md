@@ -72,7 +72,13 @@ My goal is to bridge the gap between effective IT user support and robust system
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/ElmerCIBS?template=classic&config.timezone=America%2FCosta_Rica&base.colors=white&theme=tokyonight" alt="Elmer's GitHub Metrics" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight" alt="Elmer's Streak" width="48%" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td>
+      <img src="https://metrics.lecoq.io/ElmerCIBS?template=classic&config.timezone=America%2FCosta_Rica&base.colors=white&theme=tokyonight" alt="Elmer's GitHub Metrics" />
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight" alt="Elmer's Streak" />
+    </td>
+  </tr>
+</table>
