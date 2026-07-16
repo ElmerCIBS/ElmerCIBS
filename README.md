@@ -17,10 +17,9 @@ My goal is to bridge the gap between effective IT user support and robust system
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmercibstech@gmail.com)
 
 ## 🕹️ TryHackMe Activity
-*Track my active learning progress and room completions.*
+*Track my active learning progress and cyber security lab completions.*
 
-[![TryHackMe Badge](https://tryhackme-badges.vercel.app/api/user/badgify/ElmerC?theme=dark)](https://tryhackme.com/p/ElmerC)
-
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Visit_My_Learning_Profile-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ElmerC)
 ---
 
 ## 🏅 My Cisco Networking Academy Badges
@@ -73,5 +72,8 @@ My goal is to bridge the gap between effective IT user support and robust system
 
 ## 📊 GitHub Analytics
 
-![Elmer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElmerCIBS&show_icons=true&theme=tokyonight)
-![Elmer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ElmerCIBS&show_icons=true&theme=tokyonight" alt="Elmer's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight" alt="Elmer's Streak" />
+</p>
