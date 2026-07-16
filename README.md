@@ -2,7 +2,7 @@
   <img src="https://github.com/ElmerCIBS/ElmerCIBS/blob/main/Elmer%20Chavarria%20-%20IT%20Support%20%26%20SOC%20Analyst%20Banner.png" alt="Elmer Chavarria - IT Support & SOC Analyst Banner" width="100%">
 </p>
 
-# Hi there, I'm Elmer! 👋🛡️
+# Hi there, I'm Elmer C! 👋🛡️
 ### Entry-Level IT Support Technician & Cyber Security / SOC Enthusiast
 
 I am an IT Professional based in **San José, Costa Rica**, with specialized training in networking, Linux, and cybersecurity through the **Cisco Networking Academy**. I specialize in network troubleshooting, system administration, and basic security operations. 
