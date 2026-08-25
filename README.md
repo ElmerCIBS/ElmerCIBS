@@ -27,7 +27,7 @@ My goal is to bridge the gap between effective IT user support and robust system
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019e5765-5a46-71e1-9662-639d5b42a35d)
 ---
-**HTB Profile:** [ElmerC](https://profile.hackthebox.com/profile/019e5765-5a46-71e1-9662-639d5b42a35d)
+
 ## 🏅 My Cisco Networking Academy Badges
 *Click on any badge to verify my credentials directly on Credly.*
 
