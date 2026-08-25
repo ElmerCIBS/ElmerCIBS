@@ -21,7 +21,13 @@ My goal is to bridge the gap between effective IT user support and robust system
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Visit_My_Learning_Profile-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ElmerC)
 ---
+## 🟩 Hack The Box Activity
 
+*Documenting hands-on cybersecurity practice through Hack The Box machines, challenges, and practical security labs.*
+
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019e5765-5a46-71e1-9662-639d5b42a35d)
+---
+**HTB Profile:** [ElmerC](https://profile.hackthebox.com/profile/019e5765-5a46-71e1-9662-639d5b42a35d)
 ## 🏅 My Cisco Networking Academy Badges
 *Click on any badge to verify my credentials directly on Credly.*
 
