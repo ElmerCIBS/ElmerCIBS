@@ -36,11 +36,12 @@ My goal is to bridge the gap between effective IT user support and robust system
 [![Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint_Security-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/4de58233-4fa8-4cd0-a09b-4135a390720f)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d9310bd2-d1d5-4451-aa66-d4436bbf65c3)
 [![Introduction to IoT](https://img.shields.io/badge/Cisco-Introduction_to_iot-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/5c2f968d-bc66-4c82-afd5-05c7884aa860/public_url)
-[![Network Defense](https://img.shields.io/badge/Cisco-networkdefense-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/share/7cd581a3-c209-4311-839a-115df5a7996c)
+[![Network Defense](https://img.shields.io/badge/Cisco-network-defense-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/share/7cd581a3-c209-4311-839a-115df5a7996c)
 
 ### 🌐 Networking Infrastructure
-[![CCNA 2](https://img.shields.io/badge/Cisco-CCNA_II:_Switching,_Routing,_&_Wireless-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/ef5092ea-2a23-4229-9faa-ae8ec7b07c13)
 [![CCNA 1](https://img.shields.io/badge/Cisco-CCNA_I:_Introduction_to_Networks-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/04e21ad0-7519-4e38-b875-6e2aca960ec6)
+[![CCNA 2](https://img.shields.io/badge/Cisco-CCNA_II:_Switching,_Routing,_&_Wireless-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/ef5092ea-2a23-4229-9faa-ae8ec7b07c13)
+[![CCNA 3](https://img.shields.io/badge/Cisco-CCNA_III:_Enterprise Networking, Security, and Automation-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/share/fa7c72d6-a7a3-458b-ba93-32a052f745c6)
 [![Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/aec596c3-d414-4943-b0bc-8b6ce7d7842b)
 
 ### 🖥️ Operating Systems & Automation
