@@ -35,8 +35,8 @@ My goal is to bridge the gap between effective IT user support and robust system
 [![Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/23216ba5-f615-4cdb-8845-9fd5b67464d4)
 [![Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint_Security-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/4de58233-4fa8-4cd0-a09b-4135a390720f)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d9310bd2-d1d5-4451-aa66-d4436bbf65c3)
-[![Introduction to IoT](https://img.shields.io/badge/Cisco-Introduction_to_iot-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/5c2f968d-bc66-4c82-afd5-05c7884aa860/public_url)
-[![Network Defense](https://img.shields.io/badge/Cisco-network-defense-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/share/7cd581a3-c209-4311-839a-115df5a7996c)
+[![Introduction to IoT](https://img.shields.io/badge/Cisco-Introduction_to_IoT-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/5c2f968d-bc66-4c82-afd5-05c7884aa860/public_url)
+[![Network Defense](https://img.shields.io/badge/Cisco-Network_Defense-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/share/7cd581a3-c209-4311-839a-115df5a7996c)
 
 ### 🌐 Networking Infrastructure
 [![CCNA 1](https://img.shields.io/badge/Cisco-CCNA_I:_Introduction_to_Networks-007A87?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/04e21ad0-7519-4e38-b875-6e2aca960ec6)
