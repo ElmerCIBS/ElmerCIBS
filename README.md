@@ -4,6 +4,7 @@
 </p>
 
 # Hi there, I'm Elmer C! 👋🛡️
+
 ### Entry-Level IT Support Technician | Cybersecurity & SOC Enthusiast | Cloud & AI Learner
 
 I am an IT professional based in **San José, Costa Rica**, with a technical foundation in networking, Linux, IT support, and cybersecurity through Cisco Networking Academy and hands-on labs.
@@ -71,13 +72,38 @@ My goal is to bridge the gap between reliable IT support, secure network infrast
 
 [![AWS Skill Builder](https://img.shields.io/badge/AWS_Skill_Builder-Course_Completed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://skillbuilder.aws/)
 
+**Completed Training**
+
 - **AWS Cloud Practitioner Essentials** — AWS Skill Builder *(Completed)*.
+
+**Knowledge Areas**
+
 - **Cloud Computing Fundamentals:** Cloud concepts, benefits, deployment models, and global infrastructure.
 - **Core AWS Services:** Introduction to cloud compute, storage, databases, and networking.
 - **Cloud Security Fundamentals:** AWS Shared Responsibility Model and identity and access management concepts.
 - **Cloud Infrastructure:** Fundamentals of scalable and resilient cloud workloads.
 
-*Note: This represents course completion, not the AWS Certified Cloud Practitioner certification.*
+*Note: Completion of this training course does not imply that I hold the AWS Certified Cloud Practitioner certification.*
+
+---
+
+## 🛡️ Fortinet Training & Network Security
+
+*Currently developing foundational knowledge of network security, threat prevention, and Fortinet security technologies.*
+
+[![Fortinet Training](https://img.shields.io/badge/Fortinet-Training_In_Progress-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://training.fortinet.com/)
+
+**Training Status: In Progress**
+
+- **NSE 1 — Introduction to the Threat Landscape:** In Progress.
+- **NSE 2 — The Evolution of Cybersecurity:** In Progress.
+- **NSE 3 — Fortinet Security Solutions:** In Progress.
+
+**Learning Focus**
+
+- Network security fundamentals and threat awareness.
+- Introduction to Fortinet security solutions and security architectures.
+- Threat prevention, network protection, and cybersecurity best practices.
 
 ---
 
@@ -113,6 +139,7 @@ My goal is to bridge the gap between reliable IT support, secure network infrast
 ![Firewalls](https://img.shields.io/badge/Infrastructure-Firewalls_%26_Cloud_Security-red?style=flat-square)
 ![Vulnerability Assessment](https://img.shields.io/badge/Security-Vulnerability_Assessment-red?style=flat-square)
 ![Endpoint Security](https://img.shields.io/badge/Defense-Endpoint_Security-red?style=flat-square)
+![Fortinet](https://img.shields.io/badge/Training-Fortinet_NSE_1--3-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 
 ### ☁️ Cloud Computing
 
@@ -142,6 +169,7 @@ My goal is to bridge the gap between reliable IT support, secure network infrast
 - 🖥️ **Network Diagnostics:** Practiced connectivity troubleshooting using `ping`, `traceroute`, `nslookup`, and `netstat`.
 - 🔒 **Blue Team & Security Labs:** Studying threat analysis, endpoint security, security controls, vulnerability management, and defensive security fundamentals.
 - ☁️ **Cloud Learning:** Completed AWS Cloud Practitioner Essentials training and developed foundational knowledge of AWS services and cloud security concepts.
+- 🛡️ **Fortinet Training:** Currently progressing through Fortinet NSE 1, NSE 2, and NSE 3 training.
 - 🐧 **Linux & Command-Line Practice:** Developing familiarity with Linux environments, command-line tools, and system administration fundamentals.
 - 🐍 **Python Fundamentals:** Learning scripting concepts and exploring how automation can support technical troubleshooting and security workflows.
 
