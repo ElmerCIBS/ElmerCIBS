@@ -38,7 +38,13 @@ My goal is to bridge the gap between reliable IT support, secure network infrast
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e5765-5a46-71e1-9662-639d5b42a35d)
 
 ---
+## 🏴‍☠️ Root-Me Activity
 
+*Tracking my cybersecurity learning journey through hands-on challenges, security exercises, and practical labs.*
+
+[![Root-Me Profile](https://img.shields.io/badge/Root--Me-Visit_My_Learning_Profile-990000?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/CyberStalker?inc=info&lang=es)
+
+---
 ## 🏅 Cisco Networking Academy Badges
 
 *Explore my completed learning achievements and credentials through Credly.*
