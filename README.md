@@ -193,7 +193,12 @@ My goal is to bridge the gap between reliable IT support, secure network infrast
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElmerCIBS&show_icons=true&theme=tokyonight&hide_border=true" alt="Elmer's GitHub Statistics" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ElmerCIBS&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Elmer's GitHub Statistics"
+  />
+</p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmerCIBS&theme=tokyonight&hide_border=true" alt="Elmer's GitHub Contribution Streak" />
 </p>
 
